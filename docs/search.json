@@ -5,21 +5,21 @@
       "title": "About Us",
       "author": [],
       "contents": "\nI (Melina) founded this group to be a collaborative space meant to cross the bridges of Political Science subfields to connect folks who are wanting or are actively using quantitative methods in their work. Our goals for the group are to reduce barriers and encourage the use of quantitative methods while recognizing that Political Methodology’s history as a subfield has lacked diversity and accessibility to womxn and POC.\nWe are looking to leverage our collective knowledge to teach each other general methods, coding hacks, and tricks to make all of our lives easier. This space will use R, as R’s open nature allows for everyone to access the software with no financial barriers. Along with presenting coding help and tips, we also hold the space to read and discuss big issues/articles in Political Methodology.\n\n\n\n",
-      "last_modified": "2021-01-26T21:20:01-08:00"
+      "last_modified": "2021-01-26T21:31:13-08:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\nCheck back in soon for blog posts by UCI P.S. Graduate Students!\n\n\n\n",
-      "last_modified": "2021-01-26T21:20:02-08:00"
+      "last_modified": "2021-01-26T21:31:13-08:00"
     },
     {
       "path": "bootcamp.html",
       "title": "Bootcamp Information",
       "author": [],
       "contents": "\nCheck back here to learn about our Summer Bootcamp for incoming Political Science Graduate Students!\n\n\n\n",
-      "last_modified": "2021-01-26T21:22:56-08:00"
+      "last_modified": "2021-01-26T21:31:14-08:00"
     },
     {
       "path": "index.html",
@@ -27,27 +27,27 @@
       "description": "Welcome to the website of the UCI Political Science Methods and Coding group, also known as UCI's Political Methodology working group. Here you will find a scheule of our meetings, Github links, and information on our Summer R Stats Bootcamp. This group was founded by Melina Much, Ph.D. Student, and is co-organized with Liz Muehlemann Ph.D. Student.\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-26T21:20:02-08:00"
+      "last_modified": "2021-01-26T21:31:14-08:00"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "\nuci_polmeth\nThis is the official website of the UCI Political Science Methods and Coding Group. Welcome!\n\n\n",
-      "last_modified": "2021-01-26T21:23:37-08:00"
+      "last_modified": "2021-01-26T21:31:15-08:00"
     },
     {
       "path": "resources.html",
       "title": "R Resources",
       "author": [],
       "contents": "\nThis page is in progress, please refer to the link here to our Github organization. All of the content is freely accessible to UCI Political Science Ph.D. Students, but requests for materials can also be made to mmuch@uci.edu.\n\n\n\n",
-      "last_modified": "2021-01-26T21:20:03-08:00"
+      "last_modified": "2021-01-26T21:31:15-08:00"
     },
     {
       "path": "schedule.html",
       "title": "Schedule 2020-2021",
       "author": [],
       "contents": "\nDecember 10th 3:00-4:00 PM on Github and Version Control\nJanuary 15th 12:00-1:30 PM on R Bootcamp\nJanuary 25th 2:00-3:00 PM on Easy Data Viz: Mia & Kyle\nFebruary 22th 2:00-3:00 PM on R Markdown: Mia\nMarch 22th 2:00-3:00 PM on Rvest: Paul Love\nApril 26th 2:00-3:00 PM on Network Analysis Intro: Ben & Uras\nMay 24th 2:00-3:00 PM on Causal Inference Methods\nJune 7th 2:00-3:00 PM on Statistical Significance Revolution\n\n\n\n",
-      "last_modified": "2021-01-26T21:23:37-08:00"
+      "last_modified": "2021-01-26T21:31:15-08:00"
     }
   ],
   "collections": []
