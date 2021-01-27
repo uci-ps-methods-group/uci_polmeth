@@ -1,0 +1,24 @@
+name: "uci_polmeth"
+title: "UCI Political Methodology"
+description: |
+  My Website
+output_dir: "docs"
+theme: theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "R Resources"
+      href: resources.html
+    - text: "Bootcamp"
+      href: bootcamp.html
+    - text: "Blog"
+      href: blog.html
+      
+      
+output: distill::distill_article
+

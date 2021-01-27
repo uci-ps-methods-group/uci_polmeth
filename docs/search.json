@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-26T20:47:03-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "UCI Political Methodology Group",
+      "description": "Welcome to the website of the UCI Political Science Methods and Coding group, also known as UCI's Political Methodology working group. Here you will find a scheule of our meetings, Github links, and information on our Summer R Stats Bootcamp. This group was founded by Melina Much, Ph.D. Student, and is co-organized with Liz Muehlemann Ph.D. Student.\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-26T20:49:43-08:00"
+    },
+    {
+      "path": "README.html",
+      "author": [],
+      "contents": "\nuci_polmeth\nThis is the official website of the UCI Political Science Methods and Coding Group. Welcome!\n\n\n",
+      "last_modified": "2021-01-26T20:49:43-08:00"
+    }
+  ],
+  "collections": []
+}
