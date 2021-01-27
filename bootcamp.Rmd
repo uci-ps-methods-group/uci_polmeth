@@ -1,0 +1,6 @@
+---
+title: "Bootcamp Information"
+output: html_document
+---
+
+Check back here to learn about our Summer Bootcamp for incoming Political Science Graduate Students!
