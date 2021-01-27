@@ -1,10 +1,7 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About Us"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+I (Melina) founded this group to be a collaborative space meant to cross the bridges of Political Science subfields to connect folks who are wanting or are actively using quantitative methods in their work. Our goals for the group are to reduce barriers and encourage the use of quantitative methods while recognizing that Political Methodology’s history as a subfield has lacked diversity and accessibility to womxn and POC.
 
+We are looking to leverage our collective knowledge to teach each other general methods, coding hacks, and tricks to make all of our lives easier. This space will use R, as R’s open nature allows for everyone to access the software with no financial barriers. Along with presenting coding help and tips, we also hold the space to read and discuss big issues/articles in Political Methodology.

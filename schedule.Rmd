@@ -1,0 +1,20 @@
+---
+title: "Schedule 2020-2021"
+output: html_document
+---
+
+- December 10th 3:00-4:00 PM on Github and Version Control
+
+- January 15th 12:00-1:30 PM on R Bootcamp
+
+- January 25th 2:00-3:00 PM on Easy Data Viz: Mia & Kyle
+
+- February 22th 2:00-3:00 PM on R Markdown: Mia
+
+- March 22th 2:00-3:00 PM on Rvest: Paul Love
+
+- April 26th 2:00-3:00 PM on Network Analysis Intro: Ben & Uras
+
+- May 24th 2:00-3:00 PM on Causal Inference Methods
+
+- June 7th 2:00-3:00 PM on Statistical Significance Revolution
