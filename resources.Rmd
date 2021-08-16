@@ -2,4 +2,4 @@
 title: "R Resources"
 ---
 
-This page is in progress, please refer to the link here to our [Github](https://github.com/uci-ps-methods-group) organization. All of the content is freely accessible to UCI Political Science Ph.D. Students, but requests for materials can also be made to mmuch@uci.edu.
+This page is in progress, please refer to the link here to our [Github](https://github.com/uci-ps-methods-group) organization. All of the content is freely accessible to UCI Political Science Ph.D. Students, but requests for materials can also be made to Melina Much at mmuch@uci.edu.
